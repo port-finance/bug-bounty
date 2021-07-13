@@ -4,7 +4,7 @@ This is a repository for reporting **NON-CRITICAL** issues found in Port Finance
 
 ***ALL CRITICAL OR SECURITY RELATED BUGS SHOULD NOT BE POST HERE.***
 
-***PLEASE SEND SECURITY ISSUES TO <bug@port.finance>***
+***PLEASE SEND SECURITY ISSUES TO <bug@port.finance> AND DISCUSS WITH THE TEAM IN PRIVATE.***
 
 ---
 
