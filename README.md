@@ -1,6 +1,14 @@
 # Port Finance Bug Bounty
 
-This is a bug bounty purpose repository. Please use Github's `Issues` feature to report founded bugs.
+This is a repository for reporting **NON-CRITICAL** issues found in Port Finance.
+
+***ALL CRITICAL OR SECURITY RELATED BUGS SHOULD NOT BE POST HERE.***
+
+***PLEASE SEND SECURITY ISSUES TO <bug@port.finance>***
+
+---
+
+Please use Github's `Issues` feature to report founded bugs.
 Please read existing issue tickets before posting new bugs.
 
 For every reproducible bug, the first person who accurately described the bug will be rewarded. 
@@ -8,7 +16,7 @@ For every reproducible bug, the first person who accurately described the bug wi
 In your issue ticket, please provide as much detail as possible following the below template:
 
 * Urgency (one of below)
-    - Critical: causes information leaks or security exploits
+    - Critical: causes information leaks or security exploits ***(DO NOT POST IN PUBLIC)***
     - Urgent: impacts core function usability with no workaround
     - High: same as urgent but has workaround
     - Low: causes inconvenience
@@ -30,5 +38,6 @@ Please note the team will **NOT** ask contributors to send any coins or tokens.
 Port Finance is under rapid development, it is possible that the team decide to not fix a low priority 
 bug if we think it will not be an issue after the next release is deployed. 
 
+---
 
 ***Port Finance Bug Bounty programs are at the discretion of the team and may be modified from time to time.***
