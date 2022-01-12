@@ -4,40 +4,4 @@ This is a repository for reporting **NON-CRITICAL** issues found in Port Finance
 
 ***ALL CRITICAL OR SECURITY RELATED BUGS SHOULD NOT BE POST HERE.***
 
-***PLEASE SEND SECURITY ISSUES TO <bug@port.finance> AND DISCUSS WITH THE TEAM IN PRIVATE.***
-
----
-
-Please use Github's `Issues` feature to report founded bugs.
-Please read existing issue tickets before posting new bugs.
-
-For every reproducible bug, the first person who accurately described the bug will be rewarded. 
-
-In your issue ticket, please provide as much detail as possible following the below template:
-
-* Urgency (one of below)
-    - Critical: causes information leaks or security exploits ***(DO NOT POST IN PUBLIC)***
-    - Urgent: impacts core function usability with no workaround
-    - High: same as urgent but has workaround
-    - Low: causes inconvenience
-    - Cosmetic: incorrect or misleading UI
-* Browser and network status
-* Steps to reproduce the bug
-* Type and status of your wallet (if applicable)
-* Status of your collaterals and loans (if applicable)
-* Screenshot before the steps (if applicable)
-* Screenshot of the bug (if applicable)
-* Transaction IDs (if applicable)
-* Theories and Suggestions (optional)
-
-Once the team confirmed a reported bug, progress tags will be added.
-If a reward is applicable, the team will ask for your wallet address for the reward.
-Please note the team will **NOT** ask contributors to send any coins or tokens.
-
-
-Port Finance is under rapid development, it is possible that the team decide to not fix a low priority 
-bug if we think it will not be an issue after the next release is deployed. 
-
----
-
-***Port Finance Bug Bounty programs are at the discretion of the team and may be modified from time to time.***
+We have partnered with Immunefi to offer bug bounty program up to 500,000. See more information [here](https://immunefi.com/).
